@@ -4,7 +4,7 @@ class Tether < Formula
   desc "Mobile emulator automation CLI for AI agents"
   homepage "https://github.com/flimble/tether"
   url "https://github.com/flimble/tether/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "2900664a26f684a76eadf96909d357bd69141e18f7d90d36d031604d96a88c0d"
+  sha256 "e959241f12dada43abc8cb75241e302cc9234d9207438690f088f71118ceba2e"
   license "MIT"
   head "https://github.com/flimble/tether.git", branch: "main"
 
