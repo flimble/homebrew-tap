@@ -1,10 +1,9 @@
 class AgentCrx < Formula
   desc "Chrome extension CDP inspector for AI agents"
   homepage "https://github.com/flimble/agent-crx"
-  url "https://github.com/flimble/agent-crx/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "80a20aa03dc2378dc3bdfa075c34febdacbfffd491578bbf7ab05d151adad8a4"
+  url "https://registry.npmjs.org/@flimble/agent-crx/-/agent-crx-0.2.0.tgz"
+  sha256 "84858550a935f9bb98d9c9c8f33b600707d2498142c9bebe2a7451402bf8509d"
   license "MIT"
-  head "https://github.com/flimble/agent-crx.git", branch: "main"
 
   depends_on "node@22"
 
